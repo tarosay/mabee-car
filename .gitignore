@@ -1,0 +1,12 @@
+# /
+*.suo
+*.o
+/.git
+
+*/obj
+*/bin
+*/*.suo
+.DS_Store
+
+*/*.sln
+*/debug.log
